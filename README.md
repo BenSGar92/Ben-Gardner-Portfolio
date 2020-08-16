@@ -1,5 +1,5 @@
-# Week-2-HW
-Bootstrap Week-2
+# Portfolio
+Bootstrap Portfolio
 
 -Linked necessary bootstrap link tags and js script tags
 -Created the Navbar and added javascript tags within the header so that the dropdown menu would work when screen size is smaller.
