@@ -1,0 +1,21 @@
+.modal-dialog{
+    text-align:center;
+}
+.modal-content{
+    display:inline-block;
+}
+
+@media screen and (max-width: 768px) {
+    /* The body's bg color will be #333 */
+  .image-resume {
+      max-width: 100%;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+    /* The body's bg color will be #333 */
+  .image-resume {
+      max-width: 100%;
+  }
+}
+  
